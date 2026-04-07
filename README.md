@@ -18,7 +18,7 @@
 1. 克隆此仓库到本地：
 
 ```bash
-git clone https://github.com/keemoir/GeekPage.git
+git clone https://github.com/yuriels/GeekPage.git
 ```
 
 2. 修改**index.html**中的个人信息部分。
@@ -33,9 +33,9 @@ git clone https://github.com/keemoir/GeekPage.git
 
 你可以通过以下方式联系我：
 
-- **邮箱：** keemoir@gmail.com 📧
-- **GitHub：** [keemoir](https://github.com/keemoir) 💻
-- **推特：** [@keemoir](https://twitter.com/keemoir) 🐦
+- **邮箱：** yurielhe@gmail.com 📧
+- **GitHub：** [yuriel](https://github.com/yuriels) 💻
+- **推特：** [@yurielhe](https://twitter.com/yuriel) 🐦
 
 ## 授权许可
 
